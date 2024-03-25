@@ -1,0 +1,9 @@
+[submodule "awesome-low-level-design"]
+	path = awesome-low-level-design
+	url = https://github.com/ashishps1/awesome-low-level-design.git
+[submodule "awesome-system-design-resources"]
+	path = awesome-system-design-resources
+	url = https://github.com/ashishps1/awesome-system-design-resources.git
+[submodule "awesome-behavioral-interview"]
+	path = awesome-behavioral-interview
+	url = https://github.com/ashishps1/awesome-behavioral-interviews.git
