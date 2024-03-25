@@ -7,3 +7,6 @@
 [submodule "awesome-behavioral-interview"]
 	path = awesome-behavioral-interview
 	url = https://github.com/ashishps1/awesome-behavioral-interviews.git
+[submodule "awesome-leetcode-resources"]
+	path = awesome-leetcode-resources
+	url = https://github.com/ashishps1/awesome-leetcode-resources.git
